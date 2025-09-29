@@ -1,0 +1,13 @@
+names:
+- back
+- front
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: classification-of-name-plates-24xpg
+  url: https://universe.roboflow.com/zaid-ahmed-aaaas/classification-of-name-plates-24xpg/dataset/1
+  version: 1
+  workspace: zaid-ahmed-aaaas
+test: ../test/images
+train: ../train/images
+val: ../valid/images
